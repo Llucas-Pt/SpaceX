@@ -1,0 +1,547 @@
+/* PAGINA HOME*/
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container01 {
+  background: url(./img/home/01.jpg);
+  background-size: cover;
+  min-height: 100vh;
+  color: white;
+}
+
+navbar {
+  color: white;
+  font-size: 20px;
+}
+
+nav img {
+  width: 250px;
+}
+
+.incio {
+  padding: 20vh 38vh;
+}
+
+.incio p {
+  font-size: 23px;
+}
+.incio h1 {
+  font-size: 43px;
+}
+
+.incio button {
+  margin: 5vh 0vh;
+}
+
+/*SEGUNDA IMAGEM*/
+
+.container02 {
+  background: url(./img/home/03.jpg);
+  background-size: cover;
+  min-height: 100vh;
+  color: white;
+}
+
+.meio {
+  padding: 20vh 38vh;
+}
+.meio p {
+  font-size: 23px;
+}
+.meio h1 {
+  font-size: 43px;
+}
+
+.meio button {
+  margin: 10vh 0vh;
+}
+
+/*TERCEIRA IMAGEM*/
+
+.container03 {
+  background: url(./img/home/02.gif);
+  background-size: cover;
+  min-height: 100vh;
+  color: white;
+}
+
+.antimeio {
+  padding: 29vh 38vh;
+}
+
+.antimeio p {
+  font-size: 23px;
+}
+.antimeio h1 {
+  font-size: 43px;
+}
+
+.antimeio button {
+  margin: 5vh 0vh;
+}
+
+/* QUARTA PARTE */
+
+.container04 {
+  background: url(./img/home/04.jpg);
+  background-size: cover;
+  min-height: 100vh;
+  color: white;
+}
+
+/*FOOTER*/
+
+footer {
+  background-color: black;
+  padding: 10vh 20vw;
+}
+
+/* PAGINA HUMAN SPACE*/
+/*****************/
+
+.Human {
+  background: url(./img/humanFlight/01.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right;
+  min-height: 124vh;
+  color: white;
+}
+
+.ft1 {
+  padding: 25vh 0vw;
+}
+
+.ft1 p {
+  font-size: 23px;
+}
+.ft1 h1 {
+  font-size: 110px;
+}
+
+.incio button {
+  margin: 5vh 0vh;
+}
+
+.comit {
+  padding: 4vh 13vw 5vh;
+  margin: 0vh 19vw -18vh;
+}
+
+/* SEGUNDA FOTO*/
+
+.fot2 {
+  background: url(./img/humanFlight/02.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  color: white;
+}
+
+.comit2 {
+  padding: 39vh 0vw;
+  margin: 9vh 0vh 0vw 61vw;
+}
+
+.comit2 h1 {
+  font-size: 60px;
+  font-weight: bold;
+}
+
+/*TERCEIRA FOTO*/
+
+.comit3 {
+  padding: 40vh 0vw 5vh;
+  margin: 0vh 10vw -18vh;
+}
+
+.comit3 h1 {
+  font-size: 60px;
+  font-weight: bold;
+}
+
+.fot3 {
+  background: url(./img/humanFlight/03.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  color: white;
+}
+
+/*QUARTA FOTO*/
+
+.fot4 {
+  background: url(./img/humanFlight/04.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  color: white;
+}
+
+.comit4 {
+  padding: 39vh 0vw;
+  margin: 0vh 0vh 0vw 61vw;
+}
+
+.comit4 h1 {
+  font-size: 60px;
+  font-weight: bold;
+}
+
+/*QUINTA FOTO*/
+
+.fot5 {
+  background: url(./img/humanFlight/05.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  color: white;
+}
+
+.comit5 {
+  padding: 40vh 0vw 5vh;
+  margin: 0vh 10vw -18vh;
+}
+
+.comit5 h1 {
+  font-size: 60px;
+  font-weight: bold;
+}
+
+/*SEXTO CONTEUDO*/
+
+.fot6 {
+  background-color: black;
+  padding: 25vh 0px;
+  min-height: 50vh;
+}
+
+/*********************/
+/* PAGINA FALCON9/
+/*********************/
+
+.falco {
+  background: url(img/falcon9/01.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  color: white;
+}
+
+.falco1 {
+  padding: 20vh 38vh;
+}
+
+.miss {
+  font-size: 100px;
+}
+
+.numeros {
+  background-color: black;
+}
+
+/*SEGUNDO CONTEUDO*/
+
+.numb h1 {
+  font-size: 100px;
+}
+
+.numb p {
+  font-size: 22px;
+}
+
+/* TERCEIRO CONTEUDO */
+
+.falco3 {
+  background: url(img/falcon9/02.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  color: white;
+}
+
+.falco33 {
+  padding: 25vh 2vw 0vh 2vw;
+  margin: 0vh 50vw 0vh 10vw;
+
+  font-size: 22px;
+  width: 640px;
+  line-height: 50px;
+}
+
+/* QUARTA CONTEUDO */
+
+.falco4 {
+}
+
+/* QUINTO CONTEUDO */
+
+.falco5 {
+  background: url(img/falcon9/08.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+  color: white;
+}
+
+.falco55 {
+  padding: 25vh 2vw 0vh 2vw;
+  margin: 0vh 50vw 0vh 10vw;
+  width: 640px;
+  line-height: 50px;
+}
+
+/********************************/
+
+/* Media Query */
+
+/* PRIMEIRA PAGINA */
+@media (max-width: 924px) {
+  .container00 {
+    width: 104vw;
+  }
+
+  footer {
+    display: none;
+  }
+}
+
+@media (max-width: 860px) {
+  .container00 {
+    width: 124vw;
+  }
+
+  footer {
+    display: none;
+  }
+}
+
+@media (max-width: 739px) {
+  .container00 {
+    width: 154vw;
+  }
+
+  footer {
+    display: none;
+  }
+}
+
+@media (max-width: 602px) {
+  .container00 {
+    width: 185vw;
+    padding: 10vh 20vw;
+  }
+
+  footer {
+    display: none;
+  }
+}
+
+@media (max-width: 550px) {
+  .container00 {
+    width: 225vw;
+    padding: 10vh 20vw;
+  }
+
+  footer {
+    display: none;
+  }
+}
+
+@media (max-width: 439px) {
+  .container00 {
+    width: 255vw;
+    padding: 10vh 20vw;
+  }
+}
+
+@media (max-width: 396px) {
+  .container01 {
+    background: url(./img/home/01.jpg);
+    background-size: cover;
+    min-height: 100vh;
+    color: white;
+  }
+  .container00 {
+    width: 284vw;
+  }
+  footer {
+    display: none;
+  }
+}
+
+/***************************************/
+
+/*SEGUNDA PAGINA*/
+
+@media (max-width: 1100px) {
+  .falcomaster {
+    width: 110vw;
+  }
+
+  .falcomaster h1 {
+    font-size: 55px;
+    margin: 0px -19vw;
+  }
+
+  .falcomaster p {
+    text-align: center;
+  }
+
+  footer {
+    display: none;
+  }
+}
+
+@media (max-width: 929px) {
+  .falcomaster {
+    width: 120vw;
+  }
+
+  .falcomaster h1 {
+    font-size: 55px;
+    margin: 0px -19vw;
+  }
+
+  .falcomaster p {
+    text-align: center;
+  }
+
+  footer {
+    display: none;
+  }
+}
+
+@media (max-width: 720px) {
+  .falcomaster {
+    width: 130vw;
+  }
+
+  .falcomaster h1 {
+    font-size: 55px;
+  }
+
+  .falcomaster p {
+    text-align: center;
+  }
+
+  footer {
+    display: none;
+  }
+}
+
+@media (max-width: 663px) {
+  .falcomaster {
+    width: 135vw;
+  }
+
+  .falcomaster p {
+  }
+
+  .falcomaster h5 {
+    text-align: center;
+    font-size: 15px;
+  }
+
+  footer {
+    display: none;
+  }
+}
+
+@media (max-width: 603px) {
+  .falcomaster {
+    width: 125vw;
+  }
+
+  .falcomaster p {
+  }
+
+  .falcomaster h5 {
+    text-align: center;
+    font-size: 8px;
+  }
+}
+
+@media (max-width: 476px) {
+  .falcomaster {
+    width: 135vw;
+  }
+
+  .falcomaster h1 {
+    font-size: 55px;
+  }
+
+  .falcomaster p {
+    text-align: center;
+  }
+
+  footer {
+    display: none;
+  }
+}
+
+@media (max-width: 452px) {
+  .falcomaster {
+    width: 227vw;
+  }
+
+  .falcomaster h1 {
+    font-size: 55px;
+  }
+
+  .falcomaster p {
+    text-align: center;
+  }
+
+  footer {
+    display: none;
+  }
+}
+
+/***************************************/
+
+/*TERCEIRA PAGINA*/
+
+@media (max-width: 1000px) {
+  .tudo {
+    width: 120vw;
+  }
+
+  .fot2 {
+    margin-top: -10vh;
+  }
+
+  footer {
+    display: none;
+  }
+}
+
+@media (max-width: 919px) {
+  .tudo {
+    width: 220vw;
+  }
+
+  .fot2 {
+    margin-top: -10vh;
+  }
+
+  footer {
+    display: none;
+  }
+}
+
+@media (max-width: 460px) {
+  .tudo {
+    width: 330vw;
+  }
+
+  .fot2 {
+    margin-top: -10vh;
+  }
+
+  footer {
+    display: none;
+  }
+}
